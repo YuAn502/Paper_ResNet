@@ -11,3 +11,5 @@ Construct the simpler ResNet with both of the residual blocks for CIFAR10 with d
 The schedule for learning rate should be adjusted.
 
 Traing mode need to be optimized.
+
+As well as the outputs and performance.
